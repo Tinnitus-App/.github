@@ -1,5 +1,13 @@
 {
   "enabledPlugins": {
     "naluma-workflow@naluma-ai": true
+  },
+  "extraKnownMarketplaces": {
+    "naluma-ai": {
+      "source": {
+        "source": "github",
+        "repo": "Tinnitus-App/naluma-ai-marketplace"
+      }
+    }
   }
 }
